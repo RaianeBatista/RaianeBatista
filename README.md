@@ -34,7 +34,7 @@
 
 ### 💡   Eu sou uma desenvolvedora FrontEnd React.
 ### 💻  Atualmente estou procurando uma colocação como DEV.
-### 🎓 Estou graduando em Engenharia de Software e tenho diversos cursos na área de tecnologia.
+### 🎓 Estou graduanda em Engenharia de Software e tenho diversos cursos na área de tecnologia.
 ### 🌱  Estou aperfeiçondo bastante em React e busco também estudar o backend.
 
 
