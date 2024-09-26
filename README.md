@@ -1,7 +1,9 @@
  ### 👋 Olá! Eu sou a Raiane, uma desenvolvedora apaixonada pelo que faz!  👩‍💻
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/raianebtsilva/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiane-batista-08b4432b8/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/raianebatiistaa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/raianebtsilva/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiabebatistasc@gmail.co)
 
@@ -34,7 +36,7 @@
 ### 💡   Eu sou uma desenvolvedora FrontEnd React.
 ### 💻  Atualmente estou procurando uma colocação como DEV.
 ### 🎓 Estou graduanda em Engenharia de Software e tenho diversos cursos na área de tecnologia.
-### 🌱  Estou aperfeiçondo bastante em React e busco também estudar o backend.
+### 🌱  Estou aperfeiçondo bastante em React as teconologias backend.
 
 
 
