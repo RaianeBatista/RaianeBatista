@@ -33,10 +33,10 @@
 
 ## 💜Sobre mim
 
-### 💡   Eu sou uma desenvolvedora FrontEnd React.
+### 💡   Eu sou uma desenvolvedora FullStack.
 ### 💻  Atualmente estou procurando uma colocação como DEV.
 ### 🎓 Estou graduanda em Engenharia de Software e tenho diversos cursos na área de tecnologia.
-### 🌱  Estou aperfeiçondo bastante em React as teconologias backend.
+### 🌱  Estou aperfeiçondo com ferramentas de fronted, backend e bancos de dados as teconologias backend.
 
 
 
