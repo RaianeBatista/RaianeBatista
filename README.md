@@ -136,17 +136,23 @@ A collaborative web development project focused on building a modern landing pag
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaianeBatista&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<!-- GitHub Stats -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaianeBatista&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaianeBatista&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics" />
 
-<br/>
+<!-- Top Languages -->
 
-<img width="70%" src="https://streak-stats.demolab.com?user=RaianeBatista&theme=tokyonight&hide_border=true" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaianeBatista&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Most Used Languages" />
+
+<br/><br/> --> 
+
+<!-- GitHub Streak -->
+
+<img width="70%" src="https://streak-stats.demolab.com?user=RaianeBatista&theme=transparent&hide_border=true&ring=00D9FF&fire=8A2BE2&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Contribution Streak" />
 
 </div>
 
